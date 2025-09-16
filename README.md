@@ -5,7 +5,7 @@ This project demonstrates event-driven programming, GUI design, and game loop lo
 
 ---
 
-## 🚀 Features
+## Features
 - Choose from multiple **topics** of words.
 - Supports **phrases with spaces** (e.g., `"ice cream"`).
 - Real-time UI updates with **lives counter** and **hangman images**.
