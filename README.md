@@ -38,8 +38,6 @@ This project demonstrates event-driven programming, GUI design, and game loop lo
 
 
 
--Win state:
-  <img width="801" height="826" alt="image" src="https://github.com/user-attachments/assets/9116ac48-cfd2-4f83-90f1-500c3b57706f" />
 
 
 ---
