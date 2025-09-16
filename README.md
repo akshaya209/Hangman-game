@@ -19,20 +19,24 @@ This project demonstrates event-driven programming, GUI design, and game loop lo
 
 ## 🖼️ Screenshots
 
-> _(Add screenshots here — recommended to show start screen, mid-game, and win/lose screens)_
+> 
 
 
  -Start screen:
-  <img width="799" height="851" alt="image" src="https://github.com/user-attachments/assets/28196a79-ab34-41f7-aed6-f7461c4cf4a5" />
+  <img width="800" height="853" alt="image" src="https://github.com/user-attachments/assets/7f29a448-fa94-47fa-b0ff-1cca93c34bd8" />
+
 
 - Playing the game:  
- <img width="800" height="857" alt="image" src="https://github.com/user-attachments/assets/a5fbdb4d-0b5e-4532-b0e6-c3d47aa6484b" />
+<img width="793" height="821" alt="image" src="https://github.com/user-attachments/assets/1732070d-65ce-4f53-a5bb-55e794b1b8ae" />
+
 
 
 - Lose state:
-  ![Uploading image.png…]()
+<img width="803" height="819" alt="image" src="https://github.com/user-attachments/assets/32441bc8-48ff-4def-9340-0afcbb999002" />
+
 -Win state:
-  ![End Game](./screenshots/end.png)
+  <img width="801" height="826" alt="image" src="https://github.com/user-attachments/assets/9116ac48-cfd2-4f83-90f1-500c3b57706f" />
+
 
 ---
 
